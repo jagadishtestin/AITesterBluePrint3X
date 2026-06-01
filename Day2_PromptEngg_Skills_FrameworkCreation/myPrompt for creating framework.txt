@@ -1,0 +1,4 @@
+C:\..\Documents\AI Testing\Day2\SeleniumFrameworkSkill.md
+C:\..\Documents\AI Testing\Day2\SKILL.md
+C:\..\Documents\AI Testing\Day2\SeleniumAdvancedFramework
+create selenium framework
