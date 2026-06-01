@@ -1,0 +1,24 @@
+Selenium framework:
+C:\..\Documents\AI Testing\Day2\SeleniumFrameworkSkill.md
+C:\..\Documents\AI Testing\Day2\SKILL.md
+C:\..\Documents\AI Testing\Day2\SeleniumAdvancedFramework
+create selenium framework
+
+
+restful API framework:
+first created skill using selenium skill as example. below is the prompt used:
+using as example of attached skill to create a selenium framework.. create another skill file to create framework for api testing using playwright tool with java script. let me know if you need any more information.
+C:\..\Documents\AI Testing\Day2\SeleniumFrameworkSkill.md
+
+confirmations answered:
+Q: Which API endpoint would you like to use as the reference for the skill?
+A: Generic/Sample API framework (not tied to specific API) - More reusable across different APIs
+Q: What scope of API testing would you like covered?
+A: Full CRUD operations - Create, Read, Update, Delete endpoints
+Q: What build tool and test framework would you prefer?
+A: npm + Playwright Test (native Playwright runner) - Integrates test runner with Playwright
+
+for creating framework, prompt:
+C:\..\Documents\AI Testing\Day2\RestfulBooker.pdf
+C:\..\Documents\AI Testing\Day2\PlaywrightAPITestingSkill.md
+create a complete, production-ready Playwright API testing framework for the Restful Booker API.
