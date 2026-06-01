@@ -1,0 +1,32 @@
+{
+  "name": "restful-booker-api-tests",
+  "version": "1.0.0",
+  "description": "Enterprise-grade API testing framework for Restful Booker API using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright test && playwright show-report",
+    "test:auth": "playwright test src/tests/auth.spec.js",
+    "test:booking": "playwright test src/tests/booking-crud.spec.js",
+    "test:filters": "playwright test src/tests/booking-filters.spec.js",
+    "test:all": "playwright test src/tests/"
+  },
+  "keywords": [
+    "playwright",
+    "api-testing",
+    "rest-api",
+    "automation",
+    "testing"
+  ],
+  "author": "QA Automation Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
